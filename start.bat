@@ -1,3 +1,3 @@
 git reset --hard
 git pull
-python -W ignore client.py
+python -W ignore client.pyc
