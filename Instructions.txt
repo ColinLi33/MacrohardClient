@@ -1,0 +1,11 @@
+0. Download git https://git-scm.com/download/win
+0.5. git clone https://github.com/ColinLi33/MacrohardClient.git
+
+1. Install Python version 3.8.1 (x86-64 executable installer) https://www.python.org/downloads/release/python-381/
+1.5. **ADD PYTHON TO PATH WHEN INSTALLING** 
+
+2. Open command prompt and cd to MacrohardClient directory
+
+3. pip install -r requirements.txt
+
+
